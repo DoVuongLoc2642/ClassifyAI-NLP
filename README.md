@@ -1,6 +1,6 @@
 # ClassifyAI-NLP
 
-ClassifyAI is a flexible and modular multi-model NLP platform for intelligent text classification. It supports a wide range of approaches—including traditional supervised learning, zero-shot classification, and LLM-based reasoning—allowing users to experiment, compare, and deploy text classifiers with ease.
+ClassifyAI is a flexible and modular multi-model NLP platform for intelligent text classification. It supports a wide range of approaches—including traditional supervised learning allow users to experiment, compare, and deploy text classifiers with ease.
 
 🧠 Built for researchers, developers, and data scientists, CategorizeAI includes:
 
