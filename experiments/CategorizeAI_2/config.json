@@ -1,0 +1,9 @@
+{
+    "experiment_name": "CategorizeAI_2",
+    "text_column": "content",
+    "target_col": "__label__",
+    "labels": [
+        "11",
+        "33"
+    ]
+}

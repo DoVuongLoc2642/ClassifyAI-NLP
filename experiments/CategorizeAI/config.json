@@ -1,0 +1,4 @@
+{
+    "experiment_name": "CategorizeAI",
+    "target_col": "category"
+}
